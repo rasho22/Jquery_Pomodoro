@@ -3,7 +3,9 @@
  * * YOUR CODE GOES HERE ! * *
  * * * * * * * * * * * * * * *
  * * * * * * * * * * * * * * */
-
+$(function){
+	
+}
 
  /*var count=100;
 var counter= setInterval(timer, 100);
